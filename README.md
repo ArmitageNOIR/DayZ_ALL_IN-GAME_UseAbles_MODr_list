@@ -73,7 +73,7 @@ a list w/ ALL in-game items, clothing or useable, Like Guns and attachment or fo
 "Land_Boathouse",
 "Land_Lighthouse",
 "Land_Pier_Crane_A",
-"and_Pier_Crane_B",
+"Land_Pier_Crane_B",
 "Land_Factory_Lathes",
 "Land_Factory_Small",
 "Land_Guardhouse",
